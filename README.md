@@ -5,14 +5,14 @@ Included in this page will be reports if projects completed, breakdown of the ed
 ## A second-level heading
 ### A third-level heading
 
-**This is bold text** 
-_This text is italicized_
-~~This was mistaken text~~
-**This text is _extremely_ important**
-***All this text is important***
-This is a <sub>subscript</sub> text
-This is a <sup>superscript</sup> text
-This is an <ins>underlined</ins> text
+**This is bold text** <br />
+_This text is italicized_ <br />
+~~This was mistaken text~~ <br />
+**This text is _extremely_ important** <br />
+***All this text is important*** <br />
+This is a <sub>subscript</sub> text <br />
+This is a <sup>superscript</sup> text <br />
+This is an <ins>underlined</ins> text <br />
 
 Text that is not a quote
 
