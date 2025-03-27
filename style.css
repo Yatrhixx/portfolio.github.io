@@ -45,7 +45,7 @@ nav ul li a:hover {
 }
 
 main {
-    margin-tone: 80px;
+    margin-top: 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
