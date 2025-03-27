@@ -3,3 +3,14 @@
   <!-- Circuit Lines -->
   <path d="M10 10 H 50 V 50 H 90 V 10 H 130 V 90 H 170" stroke="limegreen" stroke-width="2" fill="none"/>
   <path d="M60 150 H 120 V 170 H 180" stroke="limegreen" stroke-width="2" fill="none"/>
+<!-- Circular Pads -->
+  <circle cx="10" cy="10" r="3" fill="limegreen"/>
+  <circle cx="50" cy="50" r="3" fill="limegreen"/>
+  <circle cx="90" cy="10" r="3" fill="limegreen"/>
+  <circle cx="130" cy="90" r="3" fill="limegreen"/>
+  <circle cx="170" cy="90" r="3" fill="limegreen"/>
+  <circle cx="80" cy="120" r="3" fill="limegreen"/>
+  <circle cx="150" cy="120" r="3" fill="limegreen"/>
+  <circle cx="60" cy="150" r="3" fill="limegreen"/>
+  <circle cx="120" cy="170" r="3" fill="limegreen"/>
+</svg>
